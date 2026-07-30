@@ -7,7 +7,7 @@ loadRespecWithConfiguration({
   specStatus: "WV",
   specType: "HR",
   pubDomain: "dk",
-  shortName: "template",
+  shortName: "oin-pkio",
   publishDate: "2023-06-21",
   publishVersion: "0.0.3",
 
