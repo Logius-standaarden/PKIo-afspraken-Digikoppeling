@@ -1,3 +1,3 @@
 # PKIo afspraken bij gebruik Digikoppeling
 
-Dit document bevat de afspraken van PKIo waaraan een afnemer zich aan moet aanhouden bij het gebruik van de Digikoppeling standaard.
+Dit document beschrijft de validatieverplichting van de TSP binnen PKIoverheid bij het uitgeven van een certificaat.
