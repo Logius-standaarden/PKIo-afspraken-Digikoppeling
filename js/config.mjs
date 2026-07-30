@@ -18,7 +18,7 @@ loadRespecWithConfiguration({
   editors:
     [
       {
-        name: "Naam van persoon hier",
+        name: "Nil Barua",
         company: "Logius",
         companyURL: "https://www.logius.nl",
       }
@@ -26,7 +26,7 @@ loadRespecWithConfiguration({
   authors:
     [
       {
-        name: "Naam van persoon hier",
+        name: "Peter Haasnoot",
         company: "Logius",
         companyURL: "https://www.logius.nl",
       }
