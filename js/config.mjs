@@ -1,18 +1,12 @@
 import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
 
 loadRespecWithConfiguration({
-  useLogo: true,
-  useLabel: true,
-  license: "cc-by",
   specStatus: "WV",
   specType: "HR",
   pubDomain: "dk",
   shortName: "oin-pkio",
-  publishDate: "2023-06-21",
-  publishVersion: "0.0.3",
-
-  // TODO: Verwijder voordat de release plaats vindt
-  latestVersion: "https://github.com/Logius-standaarden/PKIo-afspraken-Digikoppeling",
+  publishDate: "2026-07-30",
+  publishVersion: "1.1.0",
   prevVersion: [],
 
   editors:
