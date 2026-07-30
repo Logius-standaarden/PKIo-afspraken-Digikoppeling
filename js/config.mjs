@@ -12,7 +12,7 @@ loadRespecWithConfiguration({
   publishVersion: "0.0.3",
 
   // TODO: Verwijder voordat de release plaats vindt
-  latestVersion: "https://github.com/logius-standaarden/respec-template/",
+  latestVersion: "https://github.com/Logius-standaarden/PKIo-afspraken-Digikoppeling",
   prevVersion: [],
 
   editors:
@@ -31,5 +31,5 @@ loadRespecWithConfiguration({
         companyURL: "https://www.logius.nl",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/Logius-standaarden/PKIo-afspraken-Digikoppeling",
 });
